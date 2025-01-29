@@ -1,5 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo&family=Average&display=swap');
 
+@font-face {
+    font-family: 'Gilroy';
+    src: url('/src/assets/fonts/Gilroy-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Gilroy';
+    src: url('/src/assets/fonts/Gilroy-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Proxima';
+    src: url('/src/assets/fonts/Proxima.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
 
 @tailwind base;
 @tailwind components;

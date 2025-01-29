@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      'Arvo': ['Arvo',]
+      proxima: ['Proxima', 'sans-serif'],
+      gilroy: ['Gilroy', 'sans-serif'],
     }
   },
   plugins: [],

@@ -1,17 +1,16 @@
 {
-  "name": "namaste-react",
+  "name": "food-studio",
   "version": "1.0.0",
-  "description": "This is the start of Namaste React",
+  "description": "This is the start of Food Studio",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "jest"
   },
-  "author": "Ajeet Patel",
+  "author": "Roshan Sharma",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.21.3",
-    "babel-plugin-transform-remove-console": "^6.9.4",
     "parcel": "^2.8.3",
     "postcss": "^8.4.21",
     "process": "^0.11.10",
