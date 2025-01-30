@@ -3,7 +3,7 @@ import { useDispatch, useSelector, useStore } from "react-redux";
 import { Link, useLocation } from "react-router-dom";
 import { addItem, clearCart, removeItem } from "../utils/cartSlice";
 import { IMG_CDN_URL } from "./Config";
-import { auth, database } from "../firebase";
+import { auth } from "../firebase";
 import OrderHistory from "./OrderHistory";
 import PathContext from "../utils/PathContext";
 
@@ -82,10 +82,11 @@ const Cart = () => {
     const cartItems = cartState.cartItems;
 
     //user details
-    const uid = currentUser.uid;
-    const databaseRef = database.ref("users/" + uid);
-    const newChildRef = databaseRef.push();
-    newChildRef.set(cartItems);
+    // const uid = currentUser.uid;
+    // const databaseRef = database.ref("users/" + uid);
+    // const newChildRef = databaseRef.push();
+
+    // newChildRef.set(cartItems);
 
     alert("Order Successful");
     dispatch(clearCart());

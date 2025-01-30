@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { database } from "../firebase";
+// import { database } from "../firebase";
 import { IMG_CDN_URL } from "./Config";
 import { Link } from "react-router-dom";
 
