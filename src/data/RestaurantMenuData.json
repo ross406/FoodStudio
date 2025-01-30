@@ -1,0 +1,992 @@
+[
+    {
+      "web-scraper-order": "1738220020-1",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "My Box - Non Veg",
+      "price": "319",
+      "rating": "4.7(7)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/14/3330ac68-19aa-4598-a9f9-ac1f538ab52c_e1e7be34-7ff1-475b-a69b-4b99de6a2b09.png",
+      "description": "Serves 1 | 1 personal non veg pizza, 2 pc garlic bread & 1 Pepsi PET. For Meals, refer to the nutritional data for individual products."
+    },
+    {
+      "web-scraper-order": "1738220020-2",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "My Box - Veg",
+      "price": "249",
+      "rating": "3.5(45)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/14/a1efbc7d-6165-4b69-8fe8-e88335921678_0c2d69b5-8aef-4ff2-962c-7c9d75bb84ce.png",
+      "description": "Serves 1 | 1 personal veg pizza, 2 pc garlic bread & 1 Pepsi PET ! For Meals, refer to the nutritional data for individual products."
+    },
+    {
+      "web-scraper-order": "1738220020-3",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Hut Treat Meal for 2 - Non Veg",
+      "price": "589",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/14/fc115b57-9536-4c2d-8876-bcedf630ea7b_b7818aa0-4ccb-4cfa-acb5-df7a9cace4e5.png_compressed",
+      "description": "Serves 2 | 1 medium non-veg pizza upto signature, 1 classic bread stix, 1 Pepsi PET. For Meals, refer to the nutritional data for individual products."
+    },
+    {
+      "web-scraper-order": "1738220020-4",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Hut Treat Meal for 2 - Veg",
+      "price": "529",
+      "rating": "3.0(5)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/14/9004b4ef-3454-40d3-babb-641082675270_4fd584b6-55b0-4a17-b519-d42e6fff8af9.png",
+      "description": "Serves 2 | 1 medium veg pizza upto signature, 1 classic bread stix, 1 Pepsi PET. For Meals, refer to the nutritional data for individual products."
+    },
+    {
+      "web-scraper-order": "1738220020-5",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Hut Treat Meal for 4 - Veg",
+      "price": "859",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/14/ca00e969-c65f-4436-85fc-a64408ddaa09_6f0ea04a-c96c-4a1e-893a-be49ead80ae0.png",
+      "description": "Serves 4 | Super saver meal combo @ 859 - 2 med veg pizza of choice, 2 classic bread stix, 2 Pepsi PET. For Meals, refer to the nutritional data for individual products."
+    },
+    {
+      "web-scraper-order": "1738220020-6",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Hut Treat Meal for 4 - Non Veg",
+      "price": "959",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/14/4bf86218-e9b2-4ff2-9c8b-bfc20e115efc_e6e2dc0f-10ed-4389-918b-45d3e32bfeda.png",
+      "description": "Serves 4 | Super saver meal combo @ 959 - 2 med non veg pizza of choice, 2 classic bread stix, 2 Pepsi PET. For Meals, refer to the nutritional data for individual products."
+    },
+    {
+      "web-scraper-order": "1738220020-7",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Create your Melts Box of 2 - Veg",
+      "price": "379",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/e6072e97754de0c6c6030103e0fb50d3",
+      "description": "Serves 2 | Choose any 2 Melts. Double the flavour, double the satisfaction. Cheezy Cheese Veg Melts :  (296 Kcal/100g), Loaded BBQ Veg Melts : (255 Kcal/100g), Makhni Paneer Melts : (265 Kcal/100g)."
+    },
+    {
+      "web-scraper-order": "1738220020-8",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Cheezy Cheese Veg & Loaded BBQ Veg Combo",
+      "price": "399",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/0b816322be7e8731246e9492e4b44b84",
+      "description": "Serves 2 | Double the satisfaction with Cheezy Cheese Veg & Loaded BBQ Veg Melts. Cheezy Cheese Veg Melts :  (296 Kcal/100g), Loaded BBQ Veg Melts : (255 Kcal/100g)."
+    },
+    {
+      "web-scraper-order": "1738220020-9",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Create your Melts Box of 2 Non-Veg",
+      "price": "498",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/e7620274ab99ba415f3e00480020cb48",
+      "description": "Serves 2 | Choose any 2 Melts. Double the flavour, double the satisfaction. Cheezy Cheese Chicken : (268 Kcal/100g), Loaded BBQ Non-Veg : (330 Kcal/100g), Chicken Tikka Keema : (283 Kcal/100g)."
+    },
+    {
+      "web-scraper-order": "1738220020-10",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Cheezy Cheese Chicken & Loaded BBQ Non-Veg Combo",
+      "price": "489",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/3779ffaf02380c80f951a1ed2b90c997",
+      "description": "Serves 1 | Satisfy your non veg cravings with Cheezy Cheese Chicken & Loaded Chicken BBQ Melts. Cheezy Cheese Chicken Melts : (268 Kcal/100g), Loaded BBQ Non-Veg Melts: (330 Kcal/100g)."
+    },
+    {
+      "web-scraper-order": "1738220020-11",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Makhni Paneer & Chicken Tikka Keema Combo",
+      "price": "549",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a6c351a9a53ae0c5fa2e5e401b8bf27a",
+      "description": "Serves 2 | Satisfy your desi flavour cravings with Makhni Paneer & Chicken Tikka Keema Melts. Makhni Paneer Melts: (265 Kcal/100g), Chicken Tikka Keema Melts : (283 Kcal/100g)."
+    },
+    {
+      "web-scraper-order": "1738220020-12",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Melts 3 Course Meal for 1 - Veg",
+      "price": "309",
+      "rating": "3.3(3)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/14/bfee1036-41ea-40c1-addc-4fcbfb9475ee_37545bf3-2f63-458b-a7bc-fbeeaa7c41bc.jpg_compressed",
+      "description": "Serves 1 | The perfect \"Me Time\" meal. Choose your favourite Melts & Fries accompanied with 1 Pepsi PET. Cheezy Cheese Veg Melts :  (296 Kcal/100g), Loaded BBQ Veg Melts : (255 Kcal/100g), Makhni Paneer Melts : (265 Kcal/100g)."
+    },
+    {
+      "web-scraper-order": "1738220020-13",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Melts Meal for 1 with Exotica Veggie Garlic Bread 2Pcs & 1 Dip-Veg",
+      "price": "259",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/10/f992e8ef-2a2b-4210-b7b6-874686580f44_afd87372-44c4-4947-8928-74f3e1522418.jpg",
+      "description": "Choose your favourite Melts & get Exotica Veggie Garlic Bread (2 Pcs) with Mayo Dip.  Cheezy Cheese Veg Melts :  (296 Kcal/100g), Loaded BBQ Veg Melts : (255 Kcal/100g), Makhni Paneer Melts : (265 Kcal/100g). Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+    },
+    {
+      "web-scraper-order": "1738220020-14",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Melts Meal for 1 with Exotica Veggie Garlic Bread 2Pcs & 1 Dip-Non Veg",
+      "price": "309",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/18/2b0e6419-c316-43b5-8f36-fd47074399eb_ffa8760b-eb38-4a21-b547-36a3c39692b6.jpg",
+      "description": "Choose your favourite Melts & get Exotica Veggie Garlic Bread (2 Pcs) with Mayo Dip. Cheezy Cheese Chicken Melts : (268 Kcal/100g), Loaded BBQ Non-Veg Melts : (330 Kcal/100g), Chicken Tikka Keema Melts : (283 Kcal/100g).  Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+    },
+    {
+      "web-scraper-order": "1738220020-15",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Melts 3 Course Meal for 1 Non-Veg",
+      "price": "359",
+      "rating": "2.8(3)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/14/26d48552-a554-4b30-93d0-7462c255adc2_cc625cc1-b13b-44d4-a394-969d224b4c6c.jpg_compressed",
+      "description": "Serves 1 | The perfect \"Me Time\" meal. Choose your favourite Melts & Fries accompanied with 1 Pepsi PET. Cheezy Cheese Chicken Melts : (268 Kcal/100g), Loaded BBQ Non-Veg Melts : (330 Kcal/100g), Chicken Tikka Keema Melts : (283 Kcal/100g)."
+    },
+    {
+      "web-scraper-order": "1738220020-16",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Super Value Deal : 2 Medium Non-Veg Pizzas starting at Rs 749 (Save Upto 39%).",
+      "price": "749",
+      "rating": "4.6(7)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/6110f28b77f670194674bbf318970656",
+      "description": "Serves 4 | Choose any 2 of your favorite non-veg medium pizzas. For Meals, refer to the nutritional data for individual products."
+    },
+    {
+      "web-scraper-order": "1738220020-17",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Super Value Deal : 2 Medium Veg Pizzas starting at Rs 649 (Save Upto 41%).",
+      "price": "649",
+      "rating": "3.8(53)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/2d34f1c2c669eab6821dd0ee068590e4",
+      "description": "Serves 4 | Choose any 2 of your favorite veg medium pizzas. For Meals, refer to the nutritional data for individual products."
+    },
+    {
+      "web-scraper-order": "1738220020-18",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Tandoori Paneer",
+      "price": "319",
+      "rating": "3.4(160)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/s5ld93rsknx0fhj6xarn",
+      "description": "Serves 1 | It's our signature. Spiced paneer, crunchy onions & green capsicum, spicy red paprika with delicious tandoori sauce and 100% mozzarella cheese! (PAN Per/Med-335 Kcal/100g | TnC-326 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+    },
+    {
+      "web-scraper-order": "1738220020-19",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Veggie Supreme",
+      "price": "379",
+      "rating": "3.7(114)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/z0c4xpovma1qtmu4tlls",
+      "description": "Serves 1 | A supreme combination of black olives, green capsicum, mushroom, onion, spicy red paprika & juicy sweet corn with flavourful pan sauce and 100% mozzarella cheese. (PAN Per/Med-254 Kcal/100g | TnC-258 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+    },
+    {
+      "web-scraper-order": "1738220020-20",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/pizza-hut-hinjewadi-rest14780",
+      "name": "Country Feast",
+      "price": "319",
+      "rating": "4.0(34)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/c3832837392378cca98e484b89c313ba",
+      "description": "Serves 1 | Loaded with herbed onion & green capsicum, sweet corn, tomato with signature pan sauce and 100% mozzarella cheese. It's a feast you can't refuse (PAN Per/Med-244 Kcal/100g | TnC-282 Kcal/100g | Stuffed Crust Add : Per: 227 Kcal/100g | Med: 216 Kcal/100g) Contains Cereals containing Gluten (Wheat), Soya and Milk & Milk Products."
+    },
+    {
+      "web-scraper-order": "1738220338-1",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Cheesy Chicken Tikka",
+      "price": "329",
+      "rating": "3.3(4)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/9/4c1cdf2a-e6ac-47c7-8200-c9f85d1425dd_c0946eae-b0fd-436b-92bf-b0cecc1b5246.png",
+      "description": "Double the chicken, with real mozz cheese. Indulge in hot cheesy chicken tikka sub loaded with chicken, tandoori sauce, fresh veggies and cheese. Serving size: 15cm - 299 g/654 kcal, 30cm - 598g/1308 kcal.  Allergens - Contains cereals containing gluten, milk, soy, cashew nuts.more"
+    },
+    {
+      "web-scraper-order": "1738220338-2",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Cheesy Paneer Tikka",
+      "price": "329",
+      "rating": "3.4(5)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/23/db150a3a-6f10-4781-accc-4913a6ffebba_ead68be3-70f9-4b43-9b9d-69b854117b74.png",
+      "description": "Double the paneer, with real mozz cheese. Indulge in hot cheesy paneer melt loaded with paneer, tangy tandoori sauce, fresh veggies and cheese slice. Serving size: 15cm - 299 g/678 kcal, 30cm - 598 g/1356 kcal.  Allergens - Contains cereals containing gluten, milk, soy.more"
+    },
+    {
+      "web-scraper-order": "1738220338-3",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Cheesy Mexican",
+      "price": "309",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/9/e911b705-4934-422f-903e-67b3ee5d9345_55ea1b8b-3482-4aaa-9614-3c988f165372.png",
+      "description": "Hot and cheesy toasted sub with 1.5x chili bean patty, real mozz cheese, chipotle southwest sauce, tomato, capsicum, onion, olive, jalapeno and cheese slice. Serving size: 15cm - 281 g/597 kcal, 30cm - 562 g/1194 kcal.  Allergens - Contains cereals containing gluten, milk, soy.more"
+    },
+    {
+      "web-scraper-order": "1738220338-4",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Cheesy American BBQ",
+      "price": "309",
+      "rating": "4.7(4)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/9/4718095a-49f3-4187-bf43-399f691ab36e_c981dc74-f278-4d81-a1fb-a23ff33da533.png",
+      "description": "Hot toasted sub loaded with 1.5x filling and real mozz cheese, topped with BBQ sauce, capsicum, onion, gherkins, eggless mayo and cheese slice. Serving size: 15cm - 230 g/457 kcal, 30cm - 460 g/914 kcal.  Allergens - Contains cereals containing gluten, milk, soy.more"
+    },
+    {
+      "web-scraper-order": "1738220338-5",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Egg'n Chicken Melt",
+      "price": "289",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/9/94e5f05c-644c-44c4-b8b7-fbf9806dfa75_88018e66-96a3-4e83-9f75-5366092a97a2.png",
+      "description": "Hot toasted sub with a generous 1.5x filling of delicious egg and chicken slice, real mozz cheese topped with southwest chipotle sauce, tomato, capsicum, onion and cheese slice. Serving size: 15cm - 292 g/525 kcal, 30cm - 584 g/1050 kcal.  Allergens - Contains cereals containing gluten, milk, soy, egg.more"
+    },
+    {
+      "web-scraper-order": "1738220338-6",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Potato Chilli Cheese",
+      "price": "289",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/9/476ccea0-9c5a-4c0d-a357-286ff6b90b50_8c43ba23-5a16-4ff9-9921-34ec2b3025e5.png",
+      "description": "Hot toasted sub loaded with 1.5x potato patty and real mozz cheese, topped with mint mayo, onions and capsicum and cheese slice. Serving size: 15cm - 238 g/518 kcal, 30cm - 476 g/1036 kcal. Allergens - Contains cereals containing gluten, milk, soy.more"
+    },
+    {
+      "web-scraper-order": "1738220338-7",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Cheesy Lamb Pepperoni",
+      "price": "329",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/18/02b58e30-0ec1-4c19-b57b-d71c89e6e3c1_bc197890-8be7-40e8-8c67-fd817c6659d8.png",
+      "description": "Hot toasted sub filled with 1.5x lamb pepperoni (100% NZ quality), real mozz cheese, eggless mayo, fresh veggies and cheese slice. Serving size: 15cm - 227 g/503 kcal, 30cm - 454 g/1006 kcal. Allergens - Contains cereals containing gluten, milk, soy.more"
+    },
+    {
+      "web-scraper-order": "1738220338-8",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Chicken Keema Melt",
+      "price": "289",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/9/4f573dca-8418-445e-8e20-74422a632e24_c7127eea-abae-40df-a2b8-2f10278e63cd.png",
+      "description": "Hot and cheesy toasted sub with 1.5x chicken keema, real mozz cheese, onion, capsicum, chili mayo and cheese slice. Serving size: 15cm - 233 g/569 kcal, 30cm - 466 g/1138 kcal.  Allergens - Contains cereals containing gluten, milk, soy.more"
+    },
+    {
+      "web-scraper-order": "1738220338-9",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Double Egg n' Cheese Omelette Sandwich",
+      "price": "219",
+      "rating": "3.9(3)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/8/19/b8766551-7002-43a5-86cc-12032675e7db_e6c1d650-6290-4e64-925b-a07a2be8d834.png",
+      "description": "Serves 1 |A classic for a reason. Enjoy protein rich double omelette with Cheese, topped with Chiili mayo in a freshly baked bread. Serving Size: 15 cm -230g/366kcal, 30 cm -460g/732kcal\nAllergens -Contains wheat, rye, barley oats, milk, soy, egg.more"
+    },
+    {
+      "web-scraper-order": "1738220338-10",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Aloo Patty Sandwich",
+      "price": "249",
+      "rating": "4.3(265)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ttoydnlmxjmsy4bnxptn",
+      "description": "Serves 1 | Aloo patty seasoned with special herbs and spices, paired with your choice of nutritious veggies, on a freshly baked bread. Serving size : 15 cm - 275 g / 459 kcal , 30 cm - 550 g / 918 kcal , Allergens - Contains wheat, rye, barley, oats, milk. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers.more"
+    },
+    {
+      "web-scraper-order": "1738220338-11",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Veggie Delite Sandwich",
+      "price": "229",
+      "rating": "4.6(146)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/nyijndkvbvxlzytlo5e7",
+      "description": "Serves 1 | Delicious combination of fresh lettuce, tomatoes, green peppers, cucumbers, onions, olives and pickles served on a freshly baked bread. Serving size : 15 cm - 220 g / 368 kcal , 30 cm - 440 g / 736 kcal. Allergens - Contains wheat, rye, barley, oats, milk.more"
+    },
+    {
+      "web-scraper-order": "1738220338-12",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Paneer Tikka Sandwich",
+      "price": "259",
+      "rating": "4.5(179)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/ibvtgsayrbcarr4w1lgd",
+      "description": "Serves 1 | A tangy twist to your favourite cottage cheese cubes marinated in tandoori sauce for a spicy, smoky flavour combined with your choice of veggies and sauces, served on a freshly baked bread. Serving size : 15 cm - 280 g / 540 kcal , 30 cm - 560 g / 1080 kcal. Allergens - Contains wheat, rye, barley, oats, milk, cashew nut. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers.more"
+    },
+    {
+      "web-scraper-order": "1738220338-13",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Chilli Bean Patty Sandwich",
+      "price": "259",
+      "rating": "4.7(26)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/26/ee075e78-8e1b-4ac3-8117-bef96b08fcc8_02f0132e-b070-49f6-b6fd-af0bdd776f5f.png",
+      "description": "A refreshing filling of red and black kidney beans patty topped with aromatic seasoning along with your choice of veggies and sauces served on a freshly baked bread. Serving size : 15 cm - 280 g / 555 kcal , 30 cm - 560 g / 1110 kcal. Allergens -Contains wheat, rye, barley, oats, milk. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers.more"
+    },
+    {
+      "web-scraper-order": "1738220338-14",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Corn & Peas Sandwich",
+      "price": "249",
+      "rating": "4.5(153)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/11/467a10ae-87da-4777-817c-712856f10283_b2a93801-25ad-4832-b485-511690a013d8.png_compressed",
+      "description": "Serves 1 | A delicious assortment of green peas, golden corn and diced carrots, dressed with a creamy mixture of eggless mayo, and served on your favourite bread. Serving size : 15 cm - 254 g / 382 kcal , 30 cm - 508 g / 764 kcal. Allergens - Contains wheat, rye, barley, oats, milk. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers.more"
+    },
+    {
+      "web-scraper-order": "1738220338-15",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Veg Shammi Sandwich",
+      "price": "259",
+      "rating": "4.4(61)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/flljroxppxxq8o47uijs",
+      "description": "Serves 1 | Experience authentic flavours with kebab made of lentils and enriched with mouth-watering hints of garlic and onion accompanied by nutritious veggies, in your favourite bread. Serving size : 15 cm - 280 g / 473 kcal , 30 cm - 560 g / 946 kcal. Allergens - Contains wheat, rye, barley, oats, milk, soy. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers.more"
+    },
+    {
+      "web-scraper-order": "1738220338-16",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "B.M.T Sandwich",
+      "price": "319",
+      "rating": "4.4(81)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/11/068d3da5-df84-43f8-9cff-505b3ab924f6_e38c202f-fe77-4703-a593-e15e0b5a8e68.png_compressed",
+      "description": "Serves 1 | Protein-enriched classic Italian B.M.T. sub with a mix of tasty chicken pepperoni, smoked chicken slice topped with your fav sauce to deliver a flavour burst that is served in your choice of freshly baked bread. Serving size : 15 cm - 301 g / 474 kcal , 30 cm - 602 g / 948 kcal. Allergens - Contains wheat, rye, barley, oats, milk, soy. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers.more"
+    },
+    {
+      "web-scraper-order": "1738220338-17",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Roasted Chicken Strip Sandwich",
+      "price": "279",
+      "rating": "4.6(131)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/pjs0s2n8fc5fbhb4xjvk",
+      "description": "Serves 1 | Classic preparation of succulent strips of smoked chicken served with veggies and sauces in your choice of freshly baked bread. Serving size : 15 cm - 280 g / 444 kcal , 30 cm - 560 g / 888 kcal. Allergens - Contains wheat, rye, barley, oats, milk, soy. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers.more"
+    },
+    {
+      "web-scraper-order": "1738220338-18",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Chicken Teriyaki Sandwich",
+      "price": "299",
+      "rating": "4.3(68)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/iigw3gyqdbteyyo8pzzr",
+      "description": "Serves 1 | Chicken strips glazed with teriyaki sauce, combined with your favourite veggies and topped with our signature sweet onion sauce served hot in a freshly baked bread of your choice. Serving size : 15 cm - 280 g / 397 kcal , 30 cm - 560 g / 794 kcal. Allergens - Contains wheat, rye, barley, oats, milk, soy. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers.more"
+    },
+    {
+      "web-scraper-order": "1738220338-19",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Tandoori Chicken Tikka Sandwich",
+      "price": "279",
+      "rating": "4.4(109)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/zpmz8kmwbbfptd8ahya0",
+      "description": "Serves 1 | Hearty chicken marinated with flavorful ingredients like yogurt, garlic and ginger, oven cooked with trademark tandoori tikka taste and served with veggies and sauces in your favourite bread. Serving size : 15 cm - 280 g / 521 kcal , 30 cm - 560 g / 1042 kcal. Allergens - Contains wheat, rye, barley, oats, milk, soy, cashew nut. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers.more"
+    },
+    {
+      "web-scraper-order": "1738220338-20",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/subway-shivar-garden-road-pimple-saudagar-rest17360",
+      "name": "Peri Peri Chicken Sandwich",
+      "price": "279",
+      "rating": "4.8(73)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/m1ycfwqyybzqrwoemqfa",
+      "description": "Serves 1 | Let your tastebuds travel the world with African peri-peri flavoured chicken served with nutritious veggies and packaged in your favourite bread of choice. Serving size : 15 cm - 280 g / 504 kcal , 30 cm - 560 g / 1008 kcal. Allergens - Contains wheat, rye, barley, oats, milk, soy. Values include multigrain bread, lettuce, tomatoes, onions, green peppers and cucumbers.more"
+    },
+    {
+      "web-scraper-order": "1738220641-1",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Peppy Paneer Cheese Burst",
+      "price": "354",
+      "rating": "4.7(7)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/a85a5e4f-7a9a-4eb6-b491-dab24001e15c_b2d956ee-4518-4491-8c5a-99eab6db298e.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Flavorful trio of juicy paneer, crisp capsicum & spicy red paprika"
+    },
+    {
+      "web-scraper-order": "1738220641-2",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Farmhouse Cheese Burst",
+      "price": "344",
+      "rating": "3.5(45)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/75e4a60b-8bec-47ab-90c9-b4e70df170d7_06d705be-4b9f-4e93-b1cb-5c97123bfb12.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion, capsicum, tomato & grilled mushroom"
+    },
+    {
+      "web-scraper-order": "1738220641-3",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Veggie Paradise Cheese Burst",
+      "price": "354",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/64261820-53d1-4c02-83b7-3695fb145d8f_0878efe9-eb9a-4414-a5b8-869668e1ed3f.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Golden corn, black olives, capsicum & red paprika"
+    },
+    {
+      "web-scraper-order": "1738220641-4",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Margherita Cheese Burst",
+      "price": "184",
+      "rating": "3.0(5)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/ccc30e06-ab70-45b6-9825-adf3150441af_3f3d3a2e-855b-4158-bcec-7615525e44b0.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with delight of 100% real mozzarella cheese"
+    },
+    {
+      "web-scraper-order": "1738220641-5",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Spiced Double Chicken Pizza",
+      "price": "404",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/bad67b37-0721-45a7-990d-3987f4464e06_62453978-9a8e-4a49-bc81-0ba84e842b65.jpg",
+      "description": "Molten Cheese Indulgence with combination of Pepper Barbecue Chicken & Peri Peri Chicken for Chicken lovers"
+    },
+    {
+      "web-scraper-order": "1738220641-6",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Mexican Green Wave Cheese Burst",
+      "price": "354",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/6aef4814-ce61-484e-a7d5-7f3e5d003288_be08f225-0fb1-498f-854a-1ba936aa8d60.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno"
+    },
+    {
+      "web-scraper-order": "1738220641-7",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Pepper Barbecue Chicken Cheese Burst",
+      "price": "334",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/b99b241a-b4c7-438f-8d14-3f704dbe1cd4_eb4c709d-ebab-4291-be25-9900ab6b45e1.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Pepper Barbecue chicken for that extra zing"
+    },
+    {
+      "web-scraper-order": "1738220641-8",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Indi Tandoori Paneer Cheese Burst",
+      "price": "414",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/52268a6e-00c2-4a08-99b6-2ddee4f3bdd3_32c8ad06-4578-43da-9c45-e5848c1b9b43.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with spicy tandoori paneer, capsicum, red paprika & mint mayo"
+    },
+    {
+      "web-scraper-order": "1738220641-9",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Indi Chicken Tikka Cheese Burst",
+      "price": "474",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/6b860839-56b2-4729-a0cb-ab5086fa49d4_5cac9a1b-ed2c-4a95-bb30-8586499e4f01.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with wholesome flavour of tandoori masala topped with Chicken tikka, onion, red paprika & mint mayo"
+    },
+    {
+      "web-scraper-order": "1738220641-10",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Double Cheese Margherita Cheese Burst",
+      "price": "294",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/b07475c1-97a8-49d3-bba0-9696253d44ca_eb8e4fe6-f157-4e5e-ab8a-173ecb88d9c9.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with loaded delight of 100% real mozzarella cheese"
+    },
+    {
+      "web-scraper-order": "1738220641-11",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Cheese n Corn Cheese Burst",
+      "price": "294",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/00fb90e9-6c94-41b6-98d4-7812cca42c1c_1331e26c-c671-4caa-82c4-1fcf90c55696.jpg",
+      "description": "Molten Cheese Indulgence with a delectable combination of sweet & juicy golden corn"
+    },
+    {
+      "web-scraper-order": "1738220641-12",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Chicken Golden Delight Cheese Burst",
+      "price": "394",
+      "rating": "3.3(3)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/83cc07f2-9ae3-4bbd-a303-1c26d87a2bbc_ae0da352-da9d-4942-a23b-332e554b03c9.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Double pepper Barbecue chicken, golden corn and extra cheese"
+    },
+    {
+      "web-scraper-order": "1738220641-13",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Chicken Fiesta Cheese Burst",
+      "price": "424",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/2d270ed3-34d4-49ed-8ad2-de66252fb494_cf81e686-25f5-49ab-90eb-59cb1ace9151.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with Grilled chicken rashers, peri-peri chicken, onion & capsicum"
+    },
+    {
+      "web-scraper-order": "1738220641-14",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Fresh Veggie Cheese Burst",
+      "price": "304",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/9b5b0373-4569-416b-b289-6dd546a21a7f_3f47169f-7fc6-4a59-8ec9-afc5992542cc.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with combination of onion & capsicum"
+    },
+    {
+      "web-scraper-order": "1738220641-15",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Chicken Pepperoni Cheese Burst",
+      "price": "464",
+      "rating": "2.8(3)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/82e80d82-8d85-4543-bb7e-4dc2b71d7188_e66fc751-937b-4ec1-99a1-86caba8f2420.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with American classic flavored Chicken Pepperoni, topped with extra cheese"
+    },
+    {
+      "web-scraper-order": "1738220641-16",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Achari Do Pyaza Cheese Burst",
+      "price": "284",
+      "rating": "4.6(7)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/eff260f3-7e8c-4a2a-9b55-bcde4f0522dd_7f54d7d9-96fc-4638-8d2d-c953a79aa5d3.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with tangy & spicy achari flavours on a super cheesy onion pizza"
+    },
+    {
+      "web-scraper-order": "1738220641-17",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "The 5 Chicken Feast Cheese Burst",
+      "price": "474",
+      "rating": "3.8(53)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/55cf2f2a-4fe1-4f67-9967-4d260747a5f1_9d96ecf0-9923-428b-baac-c558dfd84d2e.jpg",
+      "description": "Molten Cheese Indulgence Loaded with 5 different Chicken toppings - grilled Chicken Rashers, Chicken MeatBalls, Chicken Tikka, herby Chicken Sausage & Chicken Keema"
+    },
+    {
+      "web-scraper-order": "1738220641-18",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Chicken Sausage Cheese Burst",
+      "price": "294",
+      "rating": "3.4(160)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/d8ed092e-1e47-413c-927e-b332ef507097_ed5ffcac-15b7-4ab8-8ba7-51317eefe42c.jpg",
+      "description": "Now in 3 New Flavours - Molten Cheese Indulgence with American classic herbed chicken sausage"
+    },
+    {
+      "web-scraper-order": "1738220641-19",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Fiery Jalapeno & Paprika Pizza",
+      "price": "274",
+      "rating": "3.7(114)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/82a43df5-5cdd-4073-971f-b20c3cfa7f4d_5173638b-6513-482b-b0df-9a743ab90496.jpg",
+      "description": "Molten Cheese Indulgence with jalapeno & red paprika toppings along with spicy peri peri sauce"
+    },
+    {
+      "web-scraper-order": "1738220641-20",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/dominos-pizza-kalasagar-pimpri-rest24416",
+      "name": "Fiery Sausage & Paprika Pizza",
+      "price": "344",
+      "rating": "4.0(34)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/10/17/70dea34a-f906-4a28-8f3c-52271b2383d9_e3804e5e-5b4e-40b5-9199-61b4e8b622af.jpg",
+      "description": "Molten Cheese Indulgence with spicy & herby chicken sausage and red paprika toppings along with spicy peri peri sauce"
+    },
+    {
+      "web-scraper-order": "1738221038-1",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Chicken Surprise Burger",
+      "price": "76",
+      "rating": "4.3(41)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/22/0fbf18a1-5191-4cda-a09d-521a24c8c6ca_25cf57c6-48cc-47bd-b422-17e86b816422.png",
+      "description": "Introducing the new Chicken Surprise Burger which has the perfect balance of a crispy fried chicken patty, the crunch of onions and the richness of creamy sauce.more"
+    },
+    {
+      "web-scraper-order": "1738221038-2",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Chicken Surprise Burger Combo",
+      "price": "209",
+      "rating": "4.4(11)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/22/cb9833dd-5983-4445-bb1b-8d0e70b6c930_8928ae23-ddae-4d9a-abc5-e887d7d7868e.png",
+      "description": "Chicken Surprise Burger Combo + Fries (M) + Drink of your choice."
+    },
+    {
+      "web-scraper-order": "1738221038-3",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Chicken Surprise Burger + Fries (M)",
+      "price": "163",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/4/ccceb88b-2015-47a3-857b-21a9641d87ed_ad91cfe4-3727-4f23-a34e-4d09c8330709.png",
+      "description": "Enjoy the newly launched Chicken Surprise Burger with the iconic Fries (M)"
+    },
+    {
+      "web-scraper-order": "1738221038-4",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Cappuccino Small with Cinammon Spice",
+      "price": "195",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/23/81425a09-1c2f-4449-a049-c1bd4f6841e9_6e40b0d7-f376-4421-9559-b703864e8258.png",
+      "description": "A warm and aromatic coffee beverage that combines the bold flavor of espresso with the comforting spice of cinnamon"
+    },
+    {
+      "web-scraper-order": "1738221038-5",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Cappuccino Small with French Vanilla.",
+      "price": "195",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/23/e0a5c619-2df5-431f-9e21-670a358e8dbb_c2a2324f-ff95-44b3-adf9-dd6aee9696aa.png",
+      "description": "A popular coffee beverage that combines the smooth, creamy flavor of vanilla with the robust taste of espresso"
+    },
+    {
+      "web-scraper-order": "1738221038-6",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Cappuccino Small with Hazelnut",
+      "price": "195",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/23/1793c61c-48f4-4785-b8a6-bc50eadb3b88_36ab0b13-0b17-459c-97a6-50dea3027b80.png",
+      "description": "A delightful and aromatic coffee beverage that combines the robust flavor of espresso with the rich, nutty essence of hazelnut."
+    },
+    {
+      "web-scraper-order": "1738221038-7",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Chicken Surprise Burger + 4 Pc Chicken McNuggets + Coke.",
+      "price": "249",
+      "rating": "4.3(6)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/4/6c0288a4-943a-4bb6-a810-b14877c0ea8f_f56187da-4ae4-4a88-b1a5-e48e28d78087.png",
+      "description": "Enjoy the newly launched Chicken Surprise Burger with 4 Pc Chicken McNuggets and Coke"
+    },
+    {
+      "web-scraper-order": "1738221038-8",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Chicken Surprise Burger + McChicken Burger.",
+      "price": "179",
+      "rating": "4.4(37)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/4/f1d9557a-6f86-4eb2-abd5-569f2e865de2_9b71c67a-45f1-41c1-9e1c-b80a934768da.png",
+      "description": "Enjoy the newly launched Chicken Surprise Burger with the iconic McChicken Burger"
+    },
+    {
+      "web-scraper-order": "1738221038-9",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Classic Coffee Regular with Cinammon Spice",
+      "price": "237",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/23/6f033388-9f56-4d08-997a-fd65019fb416_7e677b00-4132-419d-9fe8-e112d1a41586.png",
+      "description": "refreshing beverage that combines the invigorating taste of iced coffee with the warm, aromatic notes of cinnamon"
+    },
+    {
+      "web-scraper-order": "1738221038-10",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Classic Coffee Regular with French Vanilla.",
+      "price": "237",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/23/5926eaba-bd6a-4af1-ba57-89bdb2fdfec6_c2507538-7597-4fc0-92e3-bdf57c81bda5.png",
+      "description": "a delightful and refreshing beverage that blends into the smooth, creamy essence of vanilla with the invigorating taste of chilled coffee."
+    },
+    {
+      "web-scraper-order": "1738221038-11",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Classic Coffee Regular with Hazelnut",
+      "price": "237",
+      "rating": "3.6(5)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/23/b65446d8-bee6-484c-abdf-0326315c7e40_4c694dbc-e5e9-4998-b6ac-bd280fc6b5dc.png",
+      "description": "refreshing and delicious beverage that combines the rich, nutty taste of hazelnut with the cool, invigorating essence of cold coffee"
+    },
+    {
+      "web-scraper-order": "1738221038-12",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Iced Coffee with Cinammon Spice.",
+      "price": "229",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/23/8db75dd0-07fa-4afb-8243-44d87b74f45b_e7a88ae1-c3d6-487a-b3c8-48880a309593.png",
+      "description": "An ideal choice for those who enjoy a flavorful, refreshing cinammon twist to their iced coffee, providing a satisfying and refreshing pick-me-up."
+    },
+    {
+      "web-scraper-order": "1738221038-13",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Iced Coffee with French Vanilla.",
+      "price": "229",
+      "rating": "4.5(4)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/23/35867352-7802-4082-8b25-955878a6daa2_1d995db8-655f-45d3-9ad2-4469fe1301ae.png",
+      "description": "An ideal choice for those who enjoy a smooth, creamy vanilla twist to their iced coffee, providing a satisfying and refreshing pick-me-up"
+    },
+    {
+      "web-scraper-order": "1738221038-14",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Iced Coffee with Hazelnut.",
+      "price": "229",
+      "rating": "4.8(3)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/7/23/0619409e-e7cc-4b7c-a002-c05a2dff2ed8_f9bf368f-3dae-4af5-813d-4645384d24f7.png",
+      "description": "An ideal choice for those who enjoy a flavorful, nutty twist to their iced coffee, providing a satisfying and refreshing pick-me-up."
+    },
+    {
+      "web-scraper-order": "1738221038-15",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "2 Crispy Veggie Burger  + 2 Fries (M) + Veg Pizza McPuff.",
+      "price": "589",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/9/18/ca2023e7-41e0-4233-a92c-c2bc52ef8ee5_33a0ea24-50ee-4a9b-b917-bbc2e6b5f37b.png",
+      "description": "Feel the crunch with Burger Combos for 2: 2 Crispy Veggie Burger + 2 Fries (M)+ Veg Pizza McPuff"
+    },
+    {
+      "web-scraper-order": "1738221038-16",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "2 Crispy Veggie Burger  + Fries (L) + 2 Coke.",
+      "price": "619",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/9/18/ce6551d8-829a-4dde-9131-cbf7818a6f26_a5b69cee-6377-4295-bbee-49725693c45d.png",
+      "description": "Feel the crunch with Burger Combos for 2: 2 Crispy Veggie Burger + Fries (L)+ 2 Coke"
+    },
+    {
+      "web-scraper-order": "1738221038-17",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "2 Mc Crispy Chicken Burger + 2 Fries (M) + Veg Pizza McPuff.",
+      "price": "669",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/9/18/921eac18-93f2-43ee-aaf3-6ba7b8d15aea_302570c8-8813-46a5-8897-569c8965d163.png",
+      "description": "Feel the crunch with Burger Combos for 2: 2 McCrispy Chicken Burger + 2 Fries (M)+ Veg Pizza McPuff"
+    },
+    {
+      "web-scraper-order": "1738221038-18",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "2 Mc Crispy Chicken Burger + Fries (L) + 2 Coke.",
+      "price": "709",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/9/18/b4fda3b0-82c9-4d97-ab9c-c804b7d7893a_a14992d5-49cb-4035-827d-a43e40752840.png",
+      "description": "Feel the crunch with our Burger Combos for 2 : 2 McCrispy Chicken Burger + Fries (L)+ 2 Coke"
+    },
+    {
+      "web-scraper-order": "1738221038-19",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Crispy Veggie Burger.",
+      "price": "200",
+      "rating": "4.5(29)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/7a3244bf-3091-4ae6-92e3-13be841a753e_b21f7a05-24b3-43f8-a592-beb23e6b69fa.png",
+      "description": "A flavorful patty made with a blend of 7 premium veggies, topped with zesty cocktail sauce, all served between soft, premium buns. Perfectly satisfying and full of flavor.more"
+    },
+    {
+      "web-scraper-order": "1738221038-20",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Crispy Veggie Burger +  Classic Cheese Fries.",
+      "price": "309",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/d81e09c2-e3c9-4b1e-862f-5b760c429a00_fa2d522d-2987-49c7-b924-965ddd970c0e.png",
+      "description": "Feel the crunch with our newly launched Crispy Veggie Burger with Classic Cheese Fries"
+    },
+    {
+      "web-scraper-order": "1738221038-21",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Crispy Veggie Burger + McAloo Tikki.",
+      "price": "245",
+      "rating": "4.8(3)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/476ed2c4-89b2-41d2-9903-be339a6a07e5_ff0d9d12-ecbd-43b9-97c9-dd3e3c20a5cb.png",
+      "description": "Feel the crunch with our newly launched Crispy Veggie Burger + McAloo Tikki"
+    },
+    {
+      "web-scraper-order": "1738221038-22",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Crispy Veggie Burger + McVeggie Burger + Fries (M).",
+      "price": "409",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/c6dd67c1-0af9-4333-a4b5-3501e0ce4579_2fee69c9-f349-46c5-bdd9-8965b9f76687.png",
+      "description": "Feel the crunch with Crispy Veggie Burger+ McVeggie + Fries (M)"
+    },
+    {
+      "web-scraper-order": "1738221038-23",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Crispy Veggie Burger Meal (M).",
+      "price": "327",
+      "rating": "4.5(7)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/eb4650ba-e950-4953-b1a7-c03a691ac0d2_6ca20c30-4c62-462a-b46d-9d1f21786b49.png",
+      "description": "A flavorful patty with 7 premium veggies, zesty cocktail sauce, and soft buns, paired with crispy fries (M) and a refreshing Coke (M). A perfectly satisfying and full-flavored meal!more"
+    },
+    {
+      "web-scraper-order": "1738221038-24",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Crispy Veggie Burger + Piri Piri Fries (M).",
+      "price": "309",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/abda9650-7216-4a8d-87ce-05342438db59_b501b87f-e104-466e-8af6-d3a9947e76ac.png",
+      "description": "Feel the crunch with our newly launched Crispy Veggie Burger with Piri Piri Fries (M)"
+    },
+    {
+      "web-scraper-order": "1738221038-25",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Mc Crispy Chicken Burger.",
+      "price": "209",
+      "rating": "3.8(15)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/df040551-263c-4074-86ee-68cb8cd393ba_3a5e53c6-601e-44a8-bf2e-590bffd7ee5e.png",
+      "description": "A crunchy, golden chicken thigh fillet, topped with fresh lettuce and creamy pepper mayo, all nestled between soft, toasted premium buns. Perfectly satisfying and full of flavor.more"
+    },
+    {
+      "web-scraper-order": "1738221038-26",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Mc Crispy Chicken Burger Meal (M).",
+      "price": "367",
+      "rating": "4.7(3)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/eedf0540-f558-4945-b996-994b1cd58048_d9af8cc8-384e-48c3-ab59-2facadfe574a.png",
+      "description": "A crunchy, golden chicken thigh fillet with fresh lettuce and creamy pepper mayo between soft, toasted premium buns, served with crispy fries (M) and a refreshing Coke (M). A perfectly satisfying and full-flavored meal!more"
+    },
+    {
+      "web-scraper-order": "1738221038-27",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Mc Crispy Chicken Burger + Piri Piri Fries (M).",
+      "price": "359",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/02bce46b-37fb-4aaa-a035-4daef4fe5350_1292d3ee-7a34-45a2-adc5-1e5b14b4752a.png",
+      "description": "Feel the crunch with our newly launched McCrispy Chicken Burger with Piri Piri Fries (M)"
+    },
+    {
+      "web-scraper-order": "1738221038-28",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Mc Crispy Chicken Burger + McChicken Burger + Fries (M).",
+      "price": "415",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/eaeeaf30-7bb6-4bef-9b78-643533a4520c_e54bb308-0447-44c2-9aaf-f36ce25f7939.png",
+      "description": "Feel the crunch with McCrispy Chicken Burger+ McChicken + Fries (M)"
+    },
+    {
+      "web-scraper-order": "1738221038-29",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Mc Crispy Chicken Burger + Classic Cheese Fries.",
+      "price": "369",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/170e8dd8-d9c1-4b67-ab84-cec5dd4a9e32_6d80a13b-024b-454f-b680-d62c7252cd4d.png",
+      "description": "Feel the crunch with our newly launched McCrispy Chicken Burger with Classic Cheese Fries"
+    },
+    {
+      "web-scraper-order": "1738221038-30",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/mcdonalds-aryan-square-spine-road-rest858819",
+      "name": "Mc Crispy Chicken Burger + McAloo Tikki.",
+      "price": "295",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/e6b4a164-3b1d-4c2b-aec1-5be8bb4f9d52_a2997ea3-09a9-4993-8b4a-80c719143b7e.png",
+      "description": "Feel the crunch with our newly launched McCrispy Chicken Burger + McAloo Tikki"
+    },
+    {
+      "web-scraper-order": "1738221466-1",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Margherita Pizza",
+      "price": "162",
+      "rating": "4.2(316)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/j23ok15p0ge6cfwqpg8m",
+      "description": "A classic cheesy Margherita. Cant go wrong. [Fat-14.3 per 100 g, Protein-12.6 per 100 g, Carbohydrate-39.2 per 100 g, Sugar-0 per 100 g, Calories-336 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-2",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Garden Delight Pizza",
+      "price": "207",
+      "rating": "4.2(251)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/nt579dnbjopqb0uzkmps",
+      "description": "A classic veg pizza that combines the zing and freshness of onions, tomatoes and capsicum. [Fat-7.2 per 100 g, Protein-9.8 per 100 g, Carbohydrate-31.4 per 100 g, Sugar-0 per 100 g, Calories-230 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-3",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Veg.hawaiian Pizza",
+      "price": "207",
+      "rating": "4.6(3)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/v7bcn7w4kdfjcfzzftpw",
+      "description": "Nothing says Hawaiian like pineapple, paneer, and sweet corn with extra cheese. [Fat-20.3 per 10 g, Protein-10.9 per 100 g, Carbohydrate-28.6 per 100 g, Sugar-0 per 100 g, Calories-340.9 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-4",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Spring Fling Pizza",
+      "price": "207",
+      "rating": "3.8(14)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/y5xpwhjvk0z0txx00vpv",
+      "description": "Quintessentially veg with capsicum, sweet corn and flavoured chunks of paneer. [Fat-12.1 per 100 g, Protein-10.1 per 100 g, Carbohydrate-34 per 100 g, Sugar-0 per 100 g, Calories-285.2 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-5",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Lovers Bite Pizza",
+      "price": "207",
+      "rating": "2.6(15)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/f51re5mmk0wx5ngsu9bl",
+      "description": "A wholesome combination of tossed mushrooms, olives and juicy sweet corn. [Fat-9 per 100 g, Protein-12.4 per 100 g, Carbohydrate-32.2 per 100 g, Sugar-0 per 100 g, Calories-260.1 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-6",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Country Side Pizza",
+      "price": "185",
+      "rating": "3.0(9)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/jermlmma0z1dy16kdo9e",
+      "description": "A country side mood goes well with capsicum, Jalapeno & Olives. [Fat-12.3 per 100 g, Protein-12.3 per 100 g, Carbohydrate-33.3 per 100 g, Sugar-0 per 100 g, Calories-293.7 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-7",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Paneer Tikka Butter Masala Pizza",
+      "price": "286",
+      "rating": "4.1(107)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/cq4lnlqv8a1bntyxnsol",
+      "description": "An indian Speciality on a La Pinoz Pizza. Exotic Paneer Tikka, Onion, Capsicum & Red Paprika. [Fat-12.7 per 100 g, Protein-13.4 per 100 g, Carbohydrate-24.6 per 100 g, Sugar-0 per 100 g, Calories-266.2 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-8",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Farm Villa Pizza",
+      "price": "286",
+      "rating": "4.2(73)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/kwznoeoksrxafyg6rx6w",
+      "description": "The freshness of capsicum, tomatoes, with the flavour of paneer and red paprika topped with a Korma dip. [Fat-10.9 per 100 g, Protein-12.7 per 100 g, Carbohydrate-34.9 per 100 g, Sugar-0 per 100 g, Calories-288.9 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-9",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Burn To Hell Pizza",
+      "price": "286",
+      "rating": "3.9(33)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/anmrle3vdtlsjegbvyda",
+      "description": "A fiery and lethal combination of hot & garlic dip, jalapenos, mushrooms, olives and capsicum. [Fat-8.4 per 100 g, Protein-13.1 per 100 g, Carbohydrate-43.1 per 100 g, Sugar-2.6 per 100 g, Calories-300.5 k. cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-10",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Garden Special Pizza",
+      "price": "286",
+      "rating": "4.6(18)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/gpnwjuohwsm9tu6jsttc",
+      "description": "A close cousin of the gardne delight. Capsicum,Mushrooms,Onion, and Fresh Tomatoes. [Fat-18.8 per 100 g, Protein-10.8 per 100 g, Carbohydrate-16.4 per 100 g, Sugar-0 per 100 g, Calories-277.6 k.call]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-11",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Cheezy-7 Pizza",
+      "price": "308",
+      "rating": "3.9(103)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/pf5pjfn9ein2xyqvrpor",
+      "description": "An Exotic Combination of White Mozzarilla, Cream White Cheese, Cheddar, Monterey Jack, Cream Orange Cheese, Colby, Orange Cheddar. [Fat-12.4 per 100 g, Protein-10.3 per 100 g, Carbohydrate-32.2 per 100 g, Sugar-2.1 per 100 g, Calories-281.8 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-12",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "La Pino'z Paneer Pizza",
+      "price": "308",
+      "rating": "4.0(7)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/24/0d99e64a-4547-41f5-9b0c-9fe4c5517e01_2c94222b-9074-4cad-9f50-a1c15eadd436.JPG",
+      "description": "A La Pinoz special. Onion, Capsicum, Paneer, Sweet Corn & Olives With Cheese Dip. [Fat-8.4 per 100 g, Protein-11.8 per 100 g, Carbohydrate-34.4 per 100 g, Sugar-2 per 100 g, Calories-260.8 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-13",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "English Retreat Pizza",
+      "price": "308",
+      "rating": "4.0(45)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/24/87bb4dfa-c300-41e0-8197-3a0e4b4a669b_21d3aca1-091a-46d5-8d26-944b39eec1a8.jpeg",
+      "description": "Olives,Red Paprika, Tomatoes, Paneer, Capsicum, Cheese, Jalapeno Dip. An English special. [Fat-11.9 per 100 g, Protein-11.1 per 100 g, Carbohydrate-37.1 per 100 g, Sugar-3.6 per 100 g, Calories-300.3 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-14",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Peri Peri Veg Pizza",
+      "price": "308",
+      "rating": "3.4(12)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/24/e4370050-8a43-409e-bbe8-bf829f9babb8_60f58736-61c6-4aa9-95c6-e35d84123c47.JPG",
+      "description": "Milder, but just as tasty. Onion, Capsicum, Mushroom, Paneer, Olives With Peri Peri Dip. [Fat-6.1 per 100 g, Protein-13.9 per g, Carbohydrate-33.8 per g, Sugar-0 per g, Calories-246.1 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-15",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Cheese Lover Pizza",
+      "price": "308",
+      "rating": "3.7(19)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/6f68c755493c9e8aa21d45fa1925db50",
+      "description": "Cheese Dip, Jalapenos Dip, Onion Capsicum, Paneer, Mushroom & Baby Corn [Fat-11.3 per 100 g, Protein-8.7 per 100 g, Carbohydrate-33.4 per 100 g, Sugar-2 per 100 g, Calories-270 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-16",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Las Vegas Treat Pizza",
+      "price": "308",
+      "rating": "5.0(3)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/24/b093f9e3-e55b-4f2f-b8d2-b4987c8ce948_58c5473c-f378-4224-a1ca-18062f4f09dd.JPG",
+      "description": "Mushrooms, Jalapenos, Baby Corn, Capsicum, Tomatoes With Peri Peri Dip[Fat-10.4 per 100 g, Protein-6.7 per 100 g, Carbohydrate-43.1 per 100 g, Sugar-3.6 per 100 g, Calories-292.3 k.call] Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-17",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Cheesy Macaroni Veg Pizza",
+      "price": "275",
+      "rating": "4.4(4)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/qshil15ztkifwocci9iw",
+      "description": "Paneer, Onions, Capsicum, Olives, Baby Corn With Loads Of Cheese"
+    },
+    {
+      "web-scraper-order": "1738221466-18",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Garlic-to-pizza",
+      "price": "275",
+      "rating": "1.5(4)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/l4qlbeovnvowequ61voq",
+      "description": "Hot & Garlic Dip with onions, Capsicum, Paneer, Mushroom, Jalapenos. [Fat-12 per 100 g, Protein-14.8 per 100 g, Carbohydrate-24.9 per 100 g, Sugar-2.2 per 100 g, Calories-266.7 4k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-19",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Texas Bbq'ed Pizza",
+      "price": "207",
+      "rating": "",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/a6uqufj0emn7mzoeldij",
+      "description": "A Special Fusion of Onion,Capsicum & BBQ Chicken. [Fat-5.1 per 100 g, Protein-12.9 per 100 g, Carbohydrate-40.3 per 100 g, Sugar-1.8 per 100 g, Calories-258.3 k.cal]Nutritional information per 100gmore"
+    },
+    {
+      "web-scraper-order": "1738221466-20",
+      "web-scraper-start-url": "https://www.swiggy.com/city/pune/la-pinoz-pizza-rahatani-road-pimple-saudagar-rest576808",
+      "name": "Exotic Tikka Pizza",
+      "price": "207",
+      "rating": "3.6(35)",
+      "image-src": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/mswajpfpf9xrzfnnmlf1",
+      "description": "Classic Combination of Onions & Chicken Tikka. [Fat-10.1 per 100 g, Protein-13 per 100 g, Carbohydrate-30.4 per 100 g, Sugar-1.8 per 100 g, Calories-264.2 k.cal] Nutritional information per 100gmore"
+    }
+  ]

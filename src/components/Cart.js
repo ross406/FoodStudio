@@ -30,7 +30,7 @@ const Cart = () => {
   useEffect(() => {
     let total = 0;
     cartItems.items.forEach((cur) => {
-      if (cur.price != "NaN") total += (cur.price / 100) * cur.quantity;
+      if (cur.price != "NaN") total += (Number(cur.price)) * cur.quantity;
     });
     total.toFixed(2);
     setTotalBill(total);
@@ -58,13 +58,13 @@ const Cart = () => {
   // Add menu in cart
   const addMenu = (curItem) => {
     dispatch(addItem(curItem));
-    setTotalBill(totalBill + curItem.price / 100);
+    setTotalBill(totalBill + Number(curItem.price));
   };
 
   //remove menu
   const removeMenu = (curItem) => {
     dispatch(removeItem(curItem));
-    const bill = Math.max(0, totalBill - curItem.price / 100);
+    const bill = Math.max(0, totalBill - Number(curItem.price));
     setTotalBill(bill);
   };
 
@@ -164,7 +164,7 @@ const Cart = () => {
                 <Link to={path}>
                   <img
                     className="min-h-full max-h-full object-fill rounded"
-                    src={IMG_CDN_URL + cartItems.logo}
+                    src={cartItems.items[0].img}
                     alt=""
                   />
                 </Link>
@@ -192,7 +192,7 @@ const Cart = () => {
                       <button onClick={() => addMenu(curItem)}>➕</button>
                     </div>
                     <p className="w-[25%] text-end font-Arvo">
-                      {(curItem.price / 100) * curItem.quantity}Rs
+                      {(curItem.price) * curItem.quantity}Rs
                     </p>
                   </div>
                 );

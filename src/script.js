@@ -70,14 +70,14 @@ const appRouter = createBrowserRouter([
         path: "/cart",
         element: <Cart />,
       },
-      // {
-      //   path: "/login",
-      //   element: <Login />,
-      // },
-      // {
-      //   path: "/signup",
-      //   element: <SignUp />,
-      // },
+      {
+        path: "/login",
+        element: <Login />,
+      },
+      {
+        path: "/signup",
+        element: <SignUp />,
+      },
     ],
   },
 ]);

@@ -17,7 +17,7 @@ const RestaurantCard = ({
   if (!title) return;
   return (
     <Link to={path}>
-      <div className="w-[330px] m-2 px-[10px] py-[5px] rounded-[5px] transition duration-300 ease-in-out hover:scale-95">
+      <div className="w-[330px] mt-6 rounded-[5px] transition duration-300 ease-in-out hover:scale-95">
         <div className="w-full h-full relative rounded-[16px] shadow-lg drop-shadow-lg">
           <img
             className="w-[330px] h-[220px] rounded-[16px] object-cover"

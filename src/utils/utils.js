@@ -51,7 +51,7 @@ export const checkAvailability = (
 };
 
 const addMenu = (menu, dispatch) => {
-  const item = { id: menu.id, name: menu.name, price: menu.price, quantity: 1 };
+  const item = { id: menu["web-scraper-order"], name: menu.name, price: menu.price, img:menu["image-src"], quantity: 1 };
   dispatch(addItem(item));
 };
 
@@ -64,3 +64,12 @@ export const removeMenu = (menu, cartItems, dispatch) => {
     dispatch(assignBasicDetails(details));
   }
 };
+
+export function getRandomObjects(jsonArray) {
+  if (!Array.isArray(jsonArray) || jsonArray.length !== 110) {
+      throw new Error("Input must be a JSON array of length 110");
+  }
+
+  let shuffled = jsonArray.sort(() => 0.5 - Math.random()); // Shuffle the array
+  return shuffled.slice(0, 20); // Select the first 20 elements
+}

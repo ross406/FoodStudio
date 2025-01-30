@@ -7,25 +7,25 @@ const OrderHistory = (currentUser) => {
   const [orders, setOrders] = useState(null);
   const uid = currentUser.currentUser.uid;
 
-  useEffect(() => {
-    const fetchData = () => {
-      const databaseRef = database.ref("users/" + uid);
+  // useEffect(() => {
+  //   const fetchData = () => {
+  //     const databaseRef = database.ref("users/" + uid);
 
-      databaseRef.on("value", (snapshot) => {
-        const val= snapshot.val();
-        if(val){
-          const data = Object.values(val);
-          setOrders(data);
-        }
-        // const data = Object?.values(snapshot.val());
-        // setOrders(data);
-      });
-      console.log(orders);
-      // databaseRef.off("value");
-    };
+  //     databaseRef.on("value", (snapshot) => {
+  //       const val= snapshot.val();
+  //       if(val){
+  //         const data = Object.values(val);
+  //         setOrders(data);
+  //       }
+  //       // const data = Object?.values(snapshot.val());
+  //       // setOrders(data);
+  //     });
+  //     console.log(orders);
+  //     // databaseRef.off("value");
+  //   };
 
-    fetchData();
-  }, []);
+  //   fetchData();
+  // }, []);
 
 
   return (

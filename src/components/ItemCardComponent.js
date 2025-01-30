@@ -1,14 +1,13 @@
 import { useState } from "react";
 import MealComponent from "./MealComponent";
 
-const ItemCardComponent = (itemCard) => {
+const ItemCardComponent = ({category,menu}) => {
  
   //state variables
   const [expanded, setexpanded] = useState(false);
 
   //extracting data from props
-  const title = itemCard?.itemCard?.card?.card?.title;
-  const menu = itemCard?.itemCard?.card?.card?.itemCards;
+  const title = category;
   // console.warn(menu);
   //when there is no dish 
   if (menu === undefined) {
@@ -24,12 +23,12 @@ const ItemCardComponent = (itemCard) => {
             onClick={() => setexpanded(!expanded)}
           >
             <h3 className="text-center w-[90%] font-bold text-[20px]">
-              {title} ({menu.length})
+              Menu ({menu.length})
             </h3>
-            <p className="text-center w-[10%]">{expanded ? "✖️" : "➕"}</p>
+            {/* <p className="text-center w-[10%]">{expanded ? "✖️" : "➕"}</p> */}
           </div>
 
-          {expanded && 
+          {
             menu.map((curMenu, index) => {
               return <MealComponent curMenu = {curMenu} key={index}/>;
             })

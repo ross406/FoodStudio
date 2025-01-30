@@ -58,6 +58,13 @@ const Login = () => {
     });
   };
 
+  const handleGuest = () => {
+    setLocalUserData({
+      email: "john@gmail.com",
+      password: "12345678",
+    });
+  }
+
   return (
     <>
       <div className="w-full min-h-screen">
@@ -110,6 +117,12 @@ const Login = () => {
             </button>
               )
             }
+            <button
+              className="bg-green-400 border rounded p-2 mt-4 w-full font-Arvo text-lg"
+              onClick={handleGuest}
+            >
+              Use Guest Credentials
+            </button>
           </div>
 
           <p className="font-Arvo">

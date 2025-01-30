@@ -2,30 +2,34 @@ import { useParams } from "react-router-dom";
 import useRestaurantMenu from "../utils/useRestaurantMenu";
 import ItemCardComponent from "./ItemCardComponent";
 import RestaurantContext from "../utils/RestaurantContext";
+import RestaurantMenuData from "../data/RestaurantMenuData.json"
+import { getRandomObjects } from "../utils/utils";
+import { RESTAURANTS } from "./Config";
 
 const RestaurantMenu = () => {
   const { id } = useParams();
-  const restaurant = useRestaurantMenu(id);
+  const restaurant = RESTAURANTS.filter(res => res['web-scraper-order'] === id)[0]
+  // const restaurant = useRestaurantMenu(id);
   const {
-    name,
-    cuisines,
-    areaname,
+    title,
+    category,
+    area,
     deliverymsg,
-    avgrating,
-    totalratings,
-    itemCards,
-    logo,
+    ratingAndTime,
+    // totalratings,
+    
   } = restaurant;
   // console.warn(itemCards);
   //we've to pass the name, id, areaname & logo of restaurant to MealComponent so that they can be added to cart details along with a meal. Hence we create a context and put these into it.
 
-  console.log(name);
-  const myData = {
-    name: name,
-    id: id,
-    areaname: areaname,
-    logo: logo,
-  };
+  const menu = getRandomObjects(RestaurantMenuData)
+  
+  // const myData = {
+  //   name: name,
+  //   id: id,
+  //   areaname: areaname,
+  //   logo: logo,
+  // };
 
   //----------------------    Context ends    ----------------------
 
@@ -35,9 +39,9 @@ const RestaurantMenu = () => {
         {/* Restaurant details */}
         <div className="w-[60%] mx-auto font-Arvo mt-[20px] flex justify-between items-baseline">
           <div>
-            <h2 className="font-bold text-[22px] mb-[15px]">{name}</h2>
+            <h2 className="font-bold text-[22px] mb-[15px]">{title}</h2>
             <h5 className="font-normal text-[#8d8d8d]">
-              {cuisines.join(", ")}
+              {category}
             </h5>
             <div className="flex">
               <img
@@ -45,20 +49,20 @@ const RestaurantMenu = () => {
                 src="https://www.clipartmax.com/png/small/207-2072371_or-combined-to-be-gigantic-location-icon-in-orange-color.png"
                 alt=""
               />
-              <h5 className="font-normal text-[#8d8d8d]">{areaname}</h5>
+              <h5 className="font-normal text-[#8d8d8d]">{area}</h5>
             </div>
-            <h5 className="font-normal text-[#8d8d8d]">{deliverymsg}</h5>
+            <h5 className="font-normal text-[#8d8d8d]">{deliverymsg || "MSG"}</h5>
           </div>
           <div className="flex flex-col shadow-md">
             <span className="star-rating text-center border-[1px] border-[#d0d0d0] py-[5px] px-[2px] bg-green-500 text-white">
               <i className="fa fa-star"></i>{" "}
-              {avgrating != "--" ? avgrating : "0.0"}
+              {ratingAndTime != "--" ? ratingAndTime : "0.0"}
             </span>
-            {totalratings != null && (
+            {/* {totalratings != null && (
               <span className="review-count text-center border-[1px] border-[#d0d0d0] py-[5px] px-[2px] text-[#8d8d8d] font-[13px]">
                 {totalratings}
               </span>
-            )}
+            )} */}
           </div>
         </div>
 
@@ -117,15 +121,13 @@ const RestaurantMenu = () => {
 
         {/* Menu items with categories */}
 
-        <RestaurantContext.Provider value={myData}>
+        {/* <RestaurantContext.Provider value={myData}> */}
           <div className="w-[60%] mx-auto my-1">
-            {itemCards?.map((itemCard, index) => {
-              if (index != 0) {
-                return <ItemCardComponent key={index} itemCard={itemCard} />;
-              }
+            {["Recommended"]?.map((category, index) => {
+                return <ItemCardComponent key={index} category={category} menu={menu}/>;
             })}
           </div>
-        </RestaurantContext.Provider>
+        {/* </RestaurantContext.Provider> */}
       </div>
     </>
   );

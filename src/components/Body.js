@@ -36,12 +36,17 @@ const Body = () => {
     alert("You're offline, Please check your internet connection");
     return <ShimmerUI />;
   }
-
+  
   return RESTAURANTS.length === 0 || filteredRestaurants.length === 0 ? (
     <ShimmerUI />
   ) : (
     <>
-      <div className="flex justify-around flex-wrap my-6 mx-auto min-h-screen container">
+      <div className="container mx-auto mt-10">
+      <div className="w-full h-[1px] bg-[#02060C] opacity-25"></div>
+      <div className="font-gilroy text-3xl font-extrabold mt-5">Restaurants with online food delivery in Pune</div>
+
+      </div>
+      <div className="flex justify-around flex-wrap mt-4 mx-auto min-h-screen container">
         {filteredRestaurants.map((restaurant,index) => {
           return <RestaurantCard key={restaurant['web-scraper-order']} 
           title={restaurant.title}

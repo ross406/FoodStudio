@@ -5,10 +5,10 @@ import { checkAvailability, findQuantity, removeMenu } from "../utils/utils";
 import { useParams } from "react-router-dom";
 import RestaurantContext from "../utils/RestaurantContext";
 
-const MealComponent = (curMenu) => {
+const MealComponent = ({curMenu}) => {
 
     //destructure props
-    const {name, price, description, imageId} = curMenu?.curMenu?.card?.info;
+    const {name, price, description} = curMenu;
 
     //state variables
     const [itemQuantity, setItemQuantity] = useState(0);
@@ -49,17 +49,17 @@ const MealComponent = (curMenu) => {
           <div className="w-[80%] mb-[10px] px-[10px]">
             <h4 className="mt-0 mb-[8px]">{name}</h4>
             <h5 className="my-[4px]  text-[#5e5d5d]">
-              {price / 100}Rs
+              {price}Rs
             </h5>
             <p className="my-[4px] text-[#8d8d8d]">
               {description}
             </p>
           </div>
           <div className="relative w-[20%] text-center px-[10px] overflow-hidden">
-            {imageId ? (
+            {curMenu["image-src"] ? (
               <img
                 className="min-w-full max-w-full object-fill rounded-md"
-                src={IMG_CDN_URL + imageId}
+                src={curMenu["image-src"]}
                 alt="meal-image"
               />
             ) : (
@@ -68,7 +68,7 @@ const MealComponent = (curMenu) => {
             <div className="flex justify-evenly rounded">
               <button
                 className=" text-sm text-white p-1 transform transition duration-300 hover:scale-125"
-                onClick={() => handleRemove(curMenu?.curMenu?.card?.info)}
+                onClick={() => handleRemove(curMenu)}
               >
                 ➖
               </button>
@@ -77,7 +77,7 @@ const MealComponent = (curMenu) => {
 
               <button
                 className=" text-sm text-white p-1 transform transition duration-300 hover:scale-125"
-                onClick={() => handleAdd(curMenu?.curMenu?.card?.info)}
+                onClick={() => handleAdd(curMenu)}
               >
                 ➕
               </button>

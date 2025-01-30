@@ -65,7 +65,7 @@ const Header = () => {
             <li className="font-Arvo p-[10px] text-[18px]"><Link to="/cart">Cart ({cartItems.items.length})</Link></li>
             
           </ul>
-          {/* <div className="flex items-center">
+          <div className="flex items-center">
             {
               !userName ? (<Link to={path}><button className=" bg-inherit border-2 border-black rounded p-1 font-Arvo text-[18px] h-[37px]"
               >Login</button></Link>) : 
@@ -74,7 +74,7 @@ const Header = () => {
               >{userName}</button>)
             }
             
-          </div> */}
+          </div>
         </div>
       </div>
     </div>
