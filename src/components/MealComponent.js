@@ -45,27 +45,32 @@ const MealComponent = ({curMenu}) => {
 
   return (
     <>
-        <div className="flex p-[5px] items-center">
-          <div className="w-[80%] mb-[10px] px-[10px]">
-            <h4 className="mt-0 mb-[8px]">{name}</h4>
-            <h5 className="my-[4px]  text-[#5e5d5d]">
-              {price}Rs
+        <div className="flex p-[5px] items-center mt-5">
+          <div className="w-[80%] mb-[10px] px-[10px] font-gilroy">
+            <h4 className="mt-0 mb-[8px] font-gilroy font-semibold text-[#02060CBF]">{name}</h4>
+            <h5 className="my-[4px] font-semibold text-[#02060CBF]">
+            ₹ {price}
             </h5>
-            <p className="my-[4px] text-[#8d8d8d]">
+            <p className="my-[4px] text-[#02060CBF] opacity-70">
               {description}
             </p>
           </div>
           <div className="relative w-[20%] text-center px-[10px] overflow-hidden">
             {curMenu["image-src"] ? (
               <img
-                className="min-w-full max-w-full object-fill rounded-md"
+                className="w-full h-[144px] object-cover rounded-xl shadow-md"
                 src={curMenu["image-src"]}
                 alt="meal-image"
               />
             ) : (
               <></>
             )}
-            <div className="flex justify-evenly rounded">
+            <div>
+              <button className="text-[#1BA672] relative bottom-5 font-semibold font-gilroy text-lg w-[120px] h-[38px] border-[1px] border-[#818080] border-opacity-40 rounded-lg bg-white shadow-md" onClick={() => handleAdd(curMenu)}>
+                ADD
+              </button>
+            </div>
+            {/* <div className="flex justify-evenly rounded">
               <button
                 className=" text-sm text-white p-1 transform transition duration-300 hover:scale-125"
                 onClick={() => handleRemove(curMenu)}
@@ -81,7 +86,7 @@ const MealComponent = ({curMenu}) => {
               >
                 ➕
               </button>
-            </div>
+            </div> */}
           </div>
         </div>
         <hr className="w-[100%]" />

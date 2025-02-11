@@ -16,10 +16,10 @@ const ItemCardComponent = ({category,menu}) => {
 
   return (
     <>
-      <div className="my-[5px] py-[5px] font-Arvo">
+      <div className="font-gilroy">
         <div>
           <div
-            className="flex cursor-pointer py-[18px] shadow-md"
+            className="flex cursor-pointer py-[15px] "
             onClick={() => setexpanded(!expanded)}
           >
             <h3 className="text-center w-[90%] font-bold text-[20px]">
@@ -27,6 +27,7 @@ const ItemCardComponent = ({category,menu}) => {
             </h3>
             {/* <p className="text-center w-[10%]">{expanded ? "✖️" : "➕"}</p> */}
           </div>
+          <hr className="w-[100%] mx-auto border-gray-600" />
 
           {
             menu.map((curMenu, index) => {
