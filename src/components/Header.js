@@ -67,11 +67,11 @@ const Header = () => {
           </ul>
           <div className="flex items-center">
             {
-              !userName ? (<Link to={path}><button className=" bg-inherit border-2 border-black rounded p-1 font-gilroy font-semibold text-[18px] h-[37px]"
+              !userName ? (<Link to={path}><button className=" bg-inherit border-2 border-black rounded p-1 px-4 font-gilroy font-semibold text-[18px] h-[37px]"
               >Login</button></Link>) : 
-              (<button className=" bg-inherit border-2 border-black rounded p-1 font-gilroy font-semibold text-[18px] h-[37px]"
+              (<button className=" bg-inherit border-2 border-black rounded p-1 px-4 font-gilroy font-semibold text-[18px] h-[37px]"
               onClick= {() => handleClick()}
-              >{userName}</button>)
+              >{userName} - Logout</button>)
             }
             
           </div>

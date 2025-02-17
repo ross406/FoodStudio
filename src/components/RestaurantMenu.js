@@ -24,12 +24,12 @@ const RestaurantMenu = () => {
 
   const menu = getRandomObjects(RestaurantMenuData)
   
-  // const myData = {
-  //   name: name,
-  //   id: id,
-  //   areaname: areaname,
-  //   logo: logo,
-  // };
+  const restaurantData = {
+    name: title,
+    id: id,
+    areaname: area,
+    logo: restaurant['imageUrl-src'],
+  };
 
   //----------------------    Context ends    ----------------------
 
@@ -121,7 +121,7 @@ const RestaurantMenu = () => {
         {/* <RestaurantContext.Provider value={myData}> */}
           <div className="w-[60%] mx-auto my-1">
             {["Recommended"]?.map((category, index) => {
-                return <ItemCardComponent key={index} category={category} menu={menu}/>;
+                return <ItemCardComponent key={index} category={category} menu={menu} restaurantData={restaurantData}/>;
             })}
           </div>
         {/* </RestaurantContext.Provider> */}

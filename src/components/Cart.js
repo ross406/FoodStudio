@@ -134,13 +134,13 @@ const Cart = () => {
                 <Link to="/login">
                   <button className="border border-green-700 rounded text-green-700 font-Arvo mx-2 py-1 px-3 text-sm">
                     Have an account? <br />
-                    <span className="text-md ">LOG IN</span>
+                    <span className="text-md font-bold">LOG IN</span>
                   </button>
                 </Link>
                 <Link to="/signup">
                   <button className="bg-green-700 rounded text-white font-Arvo mx-2 py-1 px-3 text-sm">
                     New to Food Studio? <br />
-                    <span className="text-md"> SIGN UP</span>
+                    <span className="text-md font-bold"> SIGN UP</span>
                   </button>
                 </Link>
               </div>
@@ -148,11 +148,11 @@ const Cart = () => {
           </div>
           {/* Delivery Address */}
           <div className="py-5 px-10 bg-white my-4">
-            <h3 className=" font-Arvo font-bold text-lg">Delivery Address</h3>
+            <h3 className=" font-gilroy font-bold text-lg">Delivery Address</h3>
           </div>
           {/* payment */}
           <div className="py-5 px-10 bg-white my-4">
-            <h3 className="font-Arvo font-bold text-lg">Payment</h3>
+            <h3 className="font-gilroy font-bold text-lg">Payment</h3>
           </div>
         </div>
 
@@ -161,17 +161,17 @@ const Cart = () => {
           <div className="bg-white w-[30%] h-[70vh] p-4 my-8 mx-4 ">
             {/* restaurant details */}
             <div className="flex">
-              <div className="w-16 h-12 mx-2 overflow-hidden">
+              <div className="w-[50px] h-[50px] mx-2 overflow-hidden">
                 <Link to={path}>
                   <img
-                    className="min-h-full max-h-full object-fill rounded"
-                    src={cartItems.items[0].img}
+                    className="w-[50px] h-[50px] object-cover"
+                    src={cartItems.logo}
                     alt=""
                   />
                 </Link>
               </div>
               <div className="mx-2">
-                <h3 className="text-lg font-Arvo">
+                <h3 className="text-lg font-gilroy font-bold">
                   {cartItems.restaurantName}
                 </h3>
                 <h4 className="text-sm">{cartItems.areaName}</h4>
@@ -184,31 +184,31 @@ const Cart = () => {
               {cartItems.items.map((curItem) => {
                 return (
                   <div className="my-4 flex justify-between items-center">
-                    <h3 className="w-[40%] font-Arvo">{curItem.name}</h3>
-                    <div className="w-[35%] flex justify-between items-center border border-gray-400 px-2 mx-2">
-                      <button onClick={() => removeMenu(curItem)}>➖</button>
+                    <h3 className="w-[40%] font-gilroy font-semibold">{curItem.name}</h3>
+                    <div className="w-[20%] font-bold flex justify-between items-center border border-gray-400 px-2 pb-1 mx-2 text-[#1ba672]">
+                      <button className="text-xl" onClick={() => removeMenu(curItem)}>-</button>
 
-                      <h4 className="mx-1 font-Arvo">{curItem.quantity}</h4>
+                      <h4 className="mx-1 mt-1 font-gilroy">{curItem.quantity}</h4>
 
-                      <button onClick={() => addMenu(curItem)}>➕</button>
+                      <button className="text-xl" onClick={() => addMenu(curItem)}>+</button>
                     </div>
-                    <p className="w-[25%] text-end font-Arvo">
-                      {(curItem.price) * curItem.quantity}Rs
+                    <p className="w-[25%] text-end font-gilroy pr-4">
+                    ₹{(curItem.price) * curItem.quantity}
                     </p>
                   </div>
                 );
               })}
             </div>
             {/* Total Charge */}
-
-            <div className="mt-2 p-2 flex justify-between ">
+              <div className="w-full h-[2px] bg-[#02060c]"></div>
+            <div className="mt-2 py-2 flex justify-between ">
               <h3 className="font-bold">Total Amount to Pay:</h3>
-              <h3 className="font-semibold">{totalBill}Rs</h3>
+              <h3 className="font-semibold pr-6">₹{totalBill}</h3>
             </div>
 
             <div className="flex justify-between my-1">
               <button
-                className="bg-green-600 text-white font-Arvo p-1 rounded"
+                className="bg-green-600 text-white font-gilroy font-bold p-2 rounded"
                 onClick={() => {
                   dispatch(clearCart());
                 }}
@@ -216,7 +216,7 @@ const Cart = () => {
                 Clear Cart
               </button>
               <button
-                className="bg-green-600 text-white font-Arvo p-1 rounded"
+                className="bg-green-600 text-white font-gilroy font-bold p-2 rounded mr-4"
                 onClick={handleClick}
               >
                 CheckOut

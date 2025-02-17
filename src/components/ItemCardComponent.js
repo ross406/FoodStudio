@@ -1,7 +1,7 @@
 import { useState } from "react";
 import MealComponent from "./MealComponent";
 
-const ItemCardComponent = ({category,menu}) => {
+const ItemCardComponent = ({category,menu,restaurantData}) => {
  
   //state variables
   const [expanded, setexpanded] = useState(false);
@@ -31,7 +31,7 @@ const ItemCardComponent = ({category,menu}) => {
 
           {
             menu.map((curMenu, index) => {
-              return <MealComponent curMenu = {curMenu} key={index}/>;
+              return <MealComponent curMenu = {curMenu} key={index} restaurantData={restaurantData}/>;
             })
           }
         </div>

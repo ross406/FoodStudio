@@ -5,7 +5,7 @@ import { checkAvailability, findQuantity, removeMenu } from "../utils/utils";
 import { useParams } from "react-router-dom";
 import RestaurantContext from "../utils/RestaurantContext";
 
-const MealComponent = ({curMenu}) => {
+const MealComponent = ({curMenu, restaurantData}) => {
 
     //destructure props
     const {name, price, description} = curMenu;
@@ -14,7 +14,7 @@ const MealComponent = ({curMenu}) => {
     const [itemQuantity, setItemQuantity] = useState(0);
 
     //Read data from context API
-    const myData = useContext(RestaurantContext);
+    // const myData = useContext(RestaurantContext);
 
     //fetch the id of opened restaurant
     const { id } = useParams();
@@ -27,7 +27,7 @@ const MealComponent = ({curMenu}) => {
 
     //action functions
     const handleAdd = (meal) => {
-        const check = checkAvailability(id, meal, cartItems, dispatch, myData);
+        const check = checkAvailability(id, meal, cartItems, dispatch, restaurantData);
         if(check){
             setItemQuantity(itemQuantity+1);
         }
